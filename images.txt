@@ -1,3 +1,4 @@
+elasticsearch:8.10.2
 openmetadata/server:1.4.1
 openmetadata/ingestion:1.4.1
 openmetadata/db:1.4.1
