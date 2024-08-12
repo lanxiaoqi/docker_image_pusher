@@ -1,4 +1,6 @@
-elasticsearch:8.10.2
-openmetadata/server:1.4.1
-openmetadata/ingestion:1.4.1
-openmetadata/db:1.4.1
+tabulario/spark-iceberg
+tabulario/iceberg-rest
+minio/minio
+minio/mc
+flink:1.18.0
+mysql:8.0.18
