@@ -1,5 +1,4 @@
-postgres:11
-starburstdata/hive:3.1.2-e.18
-apache/hadoop:3.3.6
-minio/minio:RELEASE.2022-05-26T05-48-41Z
-minio/mc:RELEASE.2022-05-09T04-08-26Z
+tabulario/spark-iceberg
+tabulario/iceberg-rest
+minio/minio
+minio/mc
