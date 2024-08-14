@@ -1,4 +1,1 @@
 tabulario/spark-iceberg
-tabulario/iceberg-rest
-minio/minio
-minio/mc
